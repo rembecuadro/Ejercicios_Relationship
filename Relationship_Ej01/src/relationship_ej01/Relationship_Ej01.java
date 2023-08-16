@@ -27,9 +27,7 @@ public class Relationship_Ej1 {
 //        ArrayList<Perro> perros = new ArrayList();
 //        perros.add(perro1);
 //        perros.add(perro2);
-//        
-//        
-//        
+//   
 //        Persona persona1 = new Persona("Remberto", "Cuadro", 40, 73190890, perros.get(0));
 //        System.out.println(persona1.toString());
 //        Persona persona2 = new Persona("Remberto", "Cuadro", 40, 73190890, perros.get(1));
